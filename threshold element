@@ -1,0 +1,11 @@
+import numpy as np
+n=int(input("enter the no. of elements in ur array: "))
+arr=np.zeros(n,  dtype=int)
+narr=[]
+for i in range(n):
+    arr[i]=int(input("enter values in array"))
+num=int(input("Enter the threshold amnt: "))
+for i in range (n):
+    if num<arr[i]:
+        narr=arr[arr<num]
+print ("New array is: ",narr)
