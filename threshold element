@@ -7,3 +7,4 @@ for i in range(n):
 num=int(input("Enter the threshold amnt: "))
 narr=arr[arr>num]
 print ("New array is: ",narr)
+#update
