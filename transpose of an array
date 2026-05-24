@@ -1,0 +1,10 @@
+import numpy as np
+m=int(input("Enter the rows: "))
+n=int(input ("Enter the coloumns: "))
+arr=np.zeros((m, n), dtype=int)
+for i in range(m):
+    for j in range(n):
+        arr[i][j]=int(input("Enter elements: "))
+transpose=np.transpose(arr)
+print("Original Matrix: \n", arr)
+print("Transposed Matrix: \n ", transpose)
