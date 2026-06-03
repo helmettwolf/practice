@@ -21,7 +21,7 @@ This repo is a running collection of practice code across different topics. It's
 
 ## Work in Progress
 
-This repo grows as I study. Not everything is clean or complete — some files are rough drafts or partial solutions. That's fine. The goal is reference, not perfection.
+This repo grows as I study, not just coding but also github itself. Not everything is clean or complete — some files are rough drafts or partial solutions. The goal is to learn and refer, not perfection.
 
 ---
 
